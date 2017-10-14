@@ -1,8 +1,8 @@
 {
 	"objectId": "lego51Ci4r2m9thih",
 	"name": "lego5",
-	"ip": "192.168.1.8",
-	"version": "1.7.0",
+	"ip": "192.168.0.5",
+	"version": "1.7.6",
 	"deactivated": true,
 	"protocol": "R1",
 	"tcs": "1o7d6e",
@@ -154,6 +154,24 @@
 				"unitMin": 0,
 				"unitMax": 1
 			}
+		},
+		"lego51Ci4r2m9thihlight1": {
+			"name": "light1",
+			"data": {
+				"value": 0,
+				"mode": "f",
+				"unit": "",
+				"unitMin": 0,
+				"unitMax": 1
+			},
+			"x": 80,
+			"y": 21,
+			"scale": 1,
+			"matrix": [],
+			"type": "node",
+			"stress": 0,
+			"frameSizeX": 100,
+			"frameSizeY": 100
 		}
 	}
 }

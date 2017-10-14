@@ -1,8 +1,8 @@
 {
 	"objectId": "obj47n32vbg5gk3he",
 	"name": "obj47",
-	"ip": "192.168.1.8",
-	"version": "1.7.0",
+	"ip": "192.168.0.5",
+	"version": "1.7.6",
 	"protocol": "R1",
 	"tcs": "4o9q5c",
 	"x": 37.558251699426734,
@@ -924,5 +924,5 @@
 		}
 	},
 	"logic": {},
-	"deactivated": false
+	"deactivated": true
 }
